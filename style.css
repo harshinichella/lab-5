@@ -25,3 +25,8 @@ h1{
   padding:10px;
   margin: 0px;
 }
+
+h6{
+  font-family: 'Quicksand', sans-serif;
+  text-align: center;
+}
